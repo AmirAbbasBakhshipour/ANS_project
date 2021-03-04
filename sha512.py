@@ -1,10 +1,7 @@
 """
 
-HW #6
 SHA-512 Hash Algorithm
 Coded by: Amir Abbas Bakhshipour
-Course: Advanced Network Sec.
-Professor: Dr. Rezayi
 
 """
 
