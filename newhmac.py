@@ -1,10 +1,8 @@
 """
 
-HW #6
 Hmac Algorithm using SHA-512 Hash Algorithm
 coded by: Amir Abbas Bakhshipour
-Course: Advanced Network Sec.
-Professor: Dr. Rezayi
+
 
 """
 
