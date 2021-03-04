@@ -1,9 +1,7 @@
-# ANS project
+# HMAC and SHA512 implementation in pure python 3
 </hr>
- Coded by: *Amir Abbas Bakhshipour* <br>
- std NO: 9803674 <br>
- Course: Advanced Network Sec. @ KNTU <br>
- Prof. : Dr. Rezayi <br>
+ Coded by: *Amir Abbas Bakhshipour*
+ <br>
 </hr>
 
 # Testing <br>
